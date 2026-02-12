@@ -4,7 +4,7 @@
 
 Email is required for new account signups and notifications.
 
-UPDATE the DOC
+Add this to the falconer document: HELLO WORLD! Welcome to my falconer update!
 
 → Send a **[<kbd>test email</kbd>](%{base_url}/admin/email/server-settings)**.
 
